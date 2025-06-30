@@ -1,2 +1,5 @@
-# solid-sniffle
-ML Implementations
+# Solid Sniffle
+
+
+
+The Learning Repo
